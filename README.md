@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Anonymous Mental Health & Stress Support Portal - Complete Setup Guide
 
 ## Project Overview
@@ -523,6 +522,3 @@ This project is open source and available under the MIT License.
 This project is built with the mission to help students overcome the stigma associated with seeking mental health support and to create a safe, anonymous space for guidance and counseling.
 
 **Together, we can break the silence around mental health.** 🧠💚
-=======
-# Anonymous-Mental-Health-Support-Portal
->>>>>>> 3fe06194458ef78684e72932e0fc8904a8c828bc
